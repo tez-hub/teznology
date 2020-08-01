@@ -1,0 +1,29 @@
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+@font-face{
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
+@font-face{
+    font-family: Cinzel;
+    src: url('../fonts/Cinzel_Decorative/CinzelDecorative-Regular.ttf');
+}
+
+@font-face{
+    font-family: Allan;
+    src: url('../fonts/Allan/Allan-Regular.ttf');
+}
+
+@font-face{
+    font-family: Arvo;
+    src: url('../fonts/Arvo/Arvo-Regular.ttf');
+}
+
+@font-face{
+    font-family: Dancing;
+    src: url('../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+}
